@@ -116,6 +116,6 @@ function sheryJS() {
     });
 }
 
-sheryJS();
-cursorAnimation();
 loaderAnimation();
+cursorAnimation();
+sheryJS();
